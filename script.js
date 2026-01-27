@@ -7,3 +7,6 @@ function poga1(){
 function poga2(){
     window.location.href="snovosana.html"
 }
+function poga3(){
+    window.location.href="index.html"
+}
